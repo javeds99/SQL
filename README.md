@@ -16,7 +16,8 @@ Genre's Ranked by Revenue Earned:
 
 **Links to visualizations made with Tableau:**
 
-Customer Count: https://public.tableau.com/app/profile/javed7535/viz/CustomerCount_16302705533400/CountofCustomers?publish=yes
+Customer Count: 
+https://public.tableau.com/app/profile/javed7535/viz/CustomerCount_16302705533400/CountofCustomers?publish=yes
 
 Top 15 Movies: https://public.tableau.com/app/profile/javed7535/viz/top_15_movies/Sheet1?publish=yes
 
