@@ -8,6 +8,7 @@ Top 10 Countries:
 ![Sheet 1](https://user-images.githubusercontent.com/93872864/141028254-ba877a62-5d89-4496-ad84-94cdaefa6280.png)
 
 
+
 Genre's Ranked by Revenue Earned:
 ![Screenshot (78)](https://user-images.githubusercontent.com/93872864/141031888-60c9dfcb-70c8-4ab7-a9d9-e3d11b14aac0.png)
 
