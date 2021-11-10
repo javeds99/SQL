@@ -1,0 +1,9 @@
+# Find the top 15 movies by revenue generated:
+SELECT SUM(A.amount), D.title
+FROM payment A
+INNER JOIN rental B ON A.rental_id = B.rental_id
+INNER JOIN inventory C ON B.inventory_id = C.inventory_id
+INNER JOIN film D ON C.film_id = D.film_id
+GROUP BY D.title 
+ORDER BY sum DESC
+LIMIT 15
