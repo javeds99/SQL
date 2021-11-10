@@ -18,5 +18,7 @@ Genre's Ranked by Revenue Earned:
 
 Customer Count: https://public.tableau.com/app/profile/javed7535/viz/CustomerCount_16302705533400/CountofCustomers?publish=yes
 
-Top 10 Countries: https://public.tableau.com/app/profile/javed7535/viz/top10countries_16365032938620/Sheet1?publish=yes
+Top 15 Movies: https://public.tableau.com/app/profile/javed7535/viz/top_15_movies/Sheet1?publish=yes
+
+
 
