@@ -5,8 +5,7 @@ This project used data from Rockbuster, a movie rental company, to identify tren
 **Visualizations Made With Tableau:**
 
 Top 10 Countries:
-![Screenshot (72)](https://user-images.githubusercontent.com/93872864/141027726-5724526c-3989-4fe1-bcbf-6fae841b87b6.png)
-
+![Sheet 1](https://user-images.githubusercontent.com/93872864/141028254-ba877a62-5d89-4496-ad84-94cdaefa6280.png)
 
 
 **Links to visualizations made with Tableau:**
