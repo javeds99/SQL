@@ -1,5 +1,5 @@
-Find the top 15 movies by revenue generated:
-SELECT SUM(A.amount), D.title
+Find the top 15 movies by revenue generated:                          
+SELECT SUM(A.amount), D.title                                         
 FROM payment A
 INNER JOIN rental B ON A.rental_id = B.rental_id
 INNER JOIN inventory C ON B.inventory_id = C.inventory_id
@@ -7,3 +7,14 @@ INNER JOIN film D ON C.film_id = D.film_id
 GROUP BY D.title 
 ORDER BY sum DESC
 LIMIT 15
+
+Find the top 10 countries:
+SELECT E.country, SUM(A.amount)					
+FROM payment A					
+INNER JOIN customer B ON A.customer_id = B.customer_id					
+INNER JOIN address C ON B.address_id = C.address_id					
+INNER JOIN city D ON C.city_id = D.city_id					
+INNER JOIN country E ON D.country_id = E.country_id					
+GROUP BY E.country					
+ORDER BY sum DESC					
+LIMIT 10					
