@@ -1,4 +1,4 @@
-# Find the top 15 movies by revenue generated:
+**Find the top 15 movies by revenue generated:**
 SELECT SUM(A.amount), D.title
 FROM payment A
 INNER JOIN rental B ON A.rental_id = B.rental_id
