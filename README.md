@@ -7,3 +7,5 @@ This project used data from Rockbuster, a movie rental company, to identify tren
 Customer Count: https://public.tableau.com/app/profile/javed7535/viz/CustomerCount_16302705533400/CountofCustomers?publish=yes
 
 Top 10 Countries: https://public.tableau.com/app/profile/javed7535/viz/top10countries_16365032938620/Sheet1?publish=yes
+
+![Screenshot (72)](https://user-images.githubusercontent.com/93872864/141026713-238e245d-1c78-473c-a026-b34904e2b93e.png)
